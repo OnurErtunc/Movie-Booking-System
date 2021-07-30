@@ -24,8 +24,6 @@ Movie::Movie() {
 
 /**
  * @brief Construct a new Movie:: Movie object --- copy constructor
- *  this would not be used since we are not passing any movie object into a movie object
- *  this function is just a practice 
  * @param movie 
  */
 Movie::Movie( const Movie & movie) {
