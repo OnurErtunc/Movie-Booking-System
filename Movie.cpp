@@ -2,6 +2,13 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * @brief Movie Object - performs the functionalities of a movie
+ * @author Onur Ertunc
+ * @version 0.1
+ * 
+ */
+
 // Constructors and destructor
 
 /**

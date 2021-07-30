@@ -6,6 +6,13 @@
 
 using namespace std;
 
+/**
+ * @brief Movie Booking System header file
+ * @author Onur Ertunc
+ * @version 0.1
+ * 
+ */
+
 class MovieBookingSystem {
 public:
     const static int numOfRow = 30;

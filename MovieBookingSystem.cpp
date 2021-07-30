@@ -5,6 +5,13 @@
 using namespace std;
 
 /**
+ * @brief Movie Booking System
+ * @author Onur Ertunc
+ * @version 0.1
+ * 
+ */
+
+/**
  * @brief Construct a new Movie Booking System:: Movie Booking System object
  * 
  */

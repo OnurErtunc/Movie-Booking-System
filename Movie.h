@@ -2,6 +2,13 @@
 #define MOVIE_H
 using namespace std;
 
+/**
+ * @brief Movie Object header file
+ * @author Onur Ertunc
+ * @version 0.1
+ * 
+ */
+
 class Movie {
 
     public:
