@@ -15,4 +15,6 @@ Which means that each movie has an audience radius provided by the distributor.
 2- Unique reservation code: after each reservation, the system generates unique reservation code for 
 clients.
 
+Movie Booking System is currently using a console based UI. No graphical user interface is supported.
+
 In this version, Movie Booking System is using dynamic arrays for storage. The stack implementation will be released soon. 
