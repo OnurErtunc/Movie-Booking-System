@@ -17,4 +17,4 @@ clients.
 
 Movie Booking System is currently using a console based UI. No graphical user interface is supported.
 
-In this version, Movie Booking System is using dynamic arrays for storage. The stack implementation will be released soon. 
+In this version, Movie Booking System is using dynamic arrays for storage. The linked list implementation will be released soon. 
